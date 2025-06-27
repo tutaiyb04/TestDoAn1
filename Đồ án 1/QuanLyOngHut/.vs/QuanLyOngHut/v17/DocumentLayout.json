@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tLogin.cs",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\tLogin.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs",
+              "RelativeToolTip": "QuanLyOngHut\\tLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:35:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\Program.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\Program.cs",
+              "RelativeToolTip": "QuanLyOngHut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:09:56.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tLogin.cs [Design]",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\tLogin.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyOngHut\\tLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:09:48.908Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
