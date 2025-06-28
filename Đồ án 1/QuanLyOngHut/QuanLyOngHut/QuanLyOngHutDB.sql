@@ -12,11 +12,12 @@ GO
 -- HoaDon
 -- BaoCao
 -- ChiTietDonHang
+-- LichSuMuaHang
 
 CREATE TABLE TaiKhoan (
-    TenDangNhap NVARCHAR(100) PRIMARY KEY,
-    MatKhau NVARCHAR(1000),
-    Quyen NVARCHAR(100)  -- ví dụ: 'Admin', 'NhanVien'
+    TenDangNhap NVARCHAR(100) NOT NULL PRIMARY KEY,
+    MatKhau NVARCHAR(1000) NULL,
+    Email NVARCHAR(100) NULL
 )
 GO
 
@@ -147,4 +148,48 @@ CREATE TABLE LichSuMuaHang (
 )
 GO
 
+INSERT INTO TaiKhoan
+( 
+	TenDangNhap,
+	MatKhau,
+	Email
+)
+VALUES
+(
+	N'admin',
+	N'adminhkt',
+	N'adminhkt@gmail.com'
+)
 
+INSERT INTO TaiKhoan
+( 
+	TenDangNhap,
+	MatKhau,
+	Email
+)
+VALUES
+(
+	N'MinhThao',
+	N'mtdanang',
+	N'minhthao@gmail.com'
+)
+
+INSERT INTO KhachHang
+(
+	MaKH,
+	TenKH, 
+	DiaChi,
+	SoDT, 
+	Email
+)
+VALUES
+(
+	N'KH1',
+	N'Linh',
+	N'Hà Nội',
+	N'012345678',
+	N'linh@gmail.com'
+)
+
+SELECT * FROM TaiKhoan;
+SELECT * FROM KhachHang;

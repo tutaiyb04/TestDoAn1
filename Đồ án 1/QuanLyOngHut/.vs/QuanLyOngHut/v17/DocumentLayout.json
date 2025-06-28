@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\",
+  "WorkspaceRootPath": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\github\\testdoan1\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\dao\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\dao\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\tlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\quanlyonghut\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|e:\\\u0111\u1ED3 \u00E1n 1\\quanlyonghut\\quanlyonghut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\quanlyonghut\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\quanlyonghut\\dao\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\dao\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\quanlyonghut\\dao\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1728503-D787-4D45-B32B-F9D1D671090E}|QuanLyOngHut\\QuanLyOngHut.csproj|solutionrelative:quanlyonghut\\dao\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tLogin.cs",
-              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs",
-              "RelativeDocumentMoniker": "QuanLyOngHut\\tLogin.cs",
-              "ToolTip": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs",
-              "RelativeToolTip": "QuanLyOngHut\\tLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DAO\\KetNoi.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\DAO\\KetNoi.cs",
+              "ToolTip": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DAO\\KetNoi.cs",
+              "RelativeToolTip": "QuanLyOngHut\\DAO\\KetNoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T03:35:29.824Z",
+              "WhenOpened": "2025-06-28T10:22:41.967Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\DangNhap.cs",
+              "ToolTip": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DangNhap.cs",
+              "RelativeToolTip": "QuanLyOngHut\\DangNhap.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:07:24.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLyOngHut\\Program.cs",
-              "ToolTip": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\Program.cs",
-              "RelativeToolTip": "QuanLyOngHut\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\DangNhap.cs",
+              "ToolTip": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyOngHut\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T01:09:56.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T09:07:10.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tLogin.cs [Design]",
-              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs",
-              "RelativeDocumentMoniker": "QuanLyOngHut\\tLogin.cs",
-              "ToolTip": "E:\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\tLogin.cs [Design]",
-              "RelativeToolTip": "QuanLyOngHut\\tLogin.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DAO\\Modify.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\DAO\\Modify.cs",
+              "ToolTip": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DAO\\Modify.cs",
+              "RelativeToolTip": "QuanLyOngHut\\DAO\\Modify.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T01:09:48.908Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-28T08:40:16.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DAO\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyOngHut\\DAO\\TaiKhoan.cs",
+              "ToolTip": "E:\\Github\\TestDoAn1\\\u0110\u1ED3 \u00E1n 1\\QuanLyOngHut\\QuanLyOngHut\\DAO\\TaiKhoan.cs",
+              "RelativeToolTip": "QuanLyOngHut\\DAO\\TaiKhoan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:59:44.218Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\bin\Debug\QuanLyOngHut.exe.config
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\bin\Debug\QuanLyOngHut.exe
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\bin\Debug\QuanLyOngHut.pdb
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.csproj.AssemblyReference.cache
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.Properties.Resources.resources
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.csproj.GenerateResource.cache
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.csproj.CoreCompileInputs.cache
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.exe
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.pdb
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.exe.config
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.QuanLy.resources
+E:\Github\TestDoAn1\Đồ án 1\QuanLyOngHut\QuanLyOngHut\obj\Debug\QuanLyOngHut.DangNhap.resources

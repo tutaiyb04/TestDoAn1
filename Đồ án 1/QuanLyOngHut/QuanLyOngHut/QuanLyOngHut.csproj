@@ -46,16 +46,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="tLogin.cs">
+    <Compile Include="DangKy.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="tLogin.Designer.cs">
-      <DependentUpon>tLogin.cs</DependentUpon>
+    <Compile Include="DangKy.Designer.cs">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\KetNoi.cs" />
+    <Compile Include="DAO\Modify.cs" />
+    <Compile Include="DAO\TaiKhoan.cs" />
+    <Compile Include="QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy.Designer.cs">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="tLogin.resx">
-      <DependentUpon>tLogin.cs</DependentUpon>
+    <EmbeddedResource Include="QuanLy.resx">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -79,5 +98,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

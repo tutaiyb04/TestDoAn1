@@ -16,7 +16,7 @@ namespace QuanLyOngHut
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new tLogin());
+            Application.Run(new DangNhap());
         }
     }
 }

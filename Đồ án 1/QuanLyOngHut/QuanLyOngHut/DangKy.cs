@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QuanLyOngHut
 {
-    public partial class tLogin : Form
+    public partial class DangKy : Form
     {
-        public tLogin()
+        public DangKy()
         {
             InitializeComponent();
         }
